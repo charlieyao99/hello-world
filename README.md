@@ -1,2 +1,3 @@
 # hello-world
-1st test repository
+This is updated README.md file on README-edits branch.
+Bla bla bla...
